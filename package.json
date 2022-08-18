@@ -5,7 +5,9 @@
   "license": "MIT",
   "author": "Rafael Rocha",
   "scripts": {
-    "dev": "ts-node-dev src/server.ts"
+    "dev": "ts-node-dev src/server.ts",
+    "build": "tsc",
+    "start": "node server.js"
   },
   "dependencies": {
     "@prisma/client": "^4.2.1",
