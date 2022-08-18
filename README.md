@@ -4,7 +4,8 @@ Im create this repository for accelerate the creation my projects.
 
 <p align="center">
   <a href="#installation">Installation</a> • 
-  <a href="#pre-requirements">Pre-requirements</a>
+  <a href="#pre-requirements">Pre-requirements</a> • 
+  <a href="#tecnologies">Tecnologies</a>
 </p>
 
 # Installation
@@ -31,5 +32,11 @@ $ yarn start (use build)
 
 # Pre-requirements
 
-#### • Git
-#### • Node (15+)
+- [Git](https://git-scm.com/)
+- [Node.JS](https://nodejs.org/en/)
+
+# Tecnologies
+
+- [TypeScript](https://www.typescriptlang.org/)
+- [Express](https://expressjs.com/pt-br/)
+- [Node.JS](https://nodejs.org/en/)
