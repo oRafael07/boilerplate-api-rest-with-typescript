@@ -19,6 +19,10 @@ $ git clone <https://github.com/oRafael07/boilerplate-api-rest-with-typescript>
 $ yarn install
 ```
 ```bash
+// Run migrations
+$ yarn prisma migration dev
+```
+```bash
 // Scripts available
 $ yarn dev
 $ yarn build
