@@ -7,7 +7,7 @@
   "scripts": {
     "dev": "ts-node-dev src/server.ts",
     "build": "tsc",
-    "start": "node server.js"
+    "start": "node ./dist/server.js"
   },
   "dependencies": {
     "@prisma/client": "^4.2.1",
